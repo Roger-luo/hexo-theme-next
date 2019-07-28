@@ -517,7 +517,7 @@ gitment:
   count: true # Show comments count in post meta area
   lazy: false # Comments lazy loading with a button
   cleanly: false # Hide 'Powered by ...' on footer, and more
-  language: English # Force language, or auto switch by theme
+  language: # Force language, or auto switch by theme
   github_user: Roger-luo # MUST HAVE, Your Github Username
   github_repo: blog # MUST HAVE, The name of the repo you use to store Gitment comments
   client_id: 57102fb363b63ebaa601 # MUST HAVE, Github client id for the Gitment
