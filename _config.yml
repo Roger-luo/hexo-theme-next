@@ -479,7 +479,7 @@ pangu: false
 # Disqus
 disqus:
   enable: true
-  shortname: disqus_rogerluo
+  shortname: blog-rogerluo-me
   count: true
   lazyload: false
 
